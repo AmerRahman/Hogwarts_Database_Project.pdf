@@ -2,7 +2,7 @@
 ## Project Overview
 This project simulates the database structure and operations for Hogwarts School of Witchcraft and Wizardry, using PL/SQL. The goal of this project is to demonstrate my proficiency in database design, SQL, and PL/SQL programming by implementing complex database queries and procedures to manage school-related data.
 
-The database includes tables for:
+### The database includes tables for:
 
 - Students
 - Professors
