@@ -4,8 +4,8 @@ This project simulates the database structure and operations for Hogwarts School
 
 The database includes tables for:
 
-Students
-Professors
+-Students
+-Professors
 Courses
 Houses
 Spells
