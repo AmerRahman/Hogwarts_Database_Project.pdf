@@ -47,4 +47,5 @@ This project simulates the database structure and operations for Hogwarts School
 ### Email: amer.ali.rahman@gmail.com
 
 ### View PDF
-[Click here to view the PL/SQL Project](MIS409 PL_SQL Project - AmerRahman.pdf)
+[Click here to view the PL/SQL Project](MIS409%20PL_SQL%20Project%20-%20AmerRahman.pdf)
+
