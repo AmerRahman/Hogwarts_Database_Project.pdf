@@ -38,7 +38,6 @@ This project simulates the database structure and operations for Hogwarts School
 - Functions, procedures, and triggers
 - Detailed queries and cursors for report generation
 ### How to Use
-- Clone or download this repository.
 - Review the SQL scripts or the full project document (Hogwarts_Database_Project.pdf) to see the implementation details.
 - Scripts can be run in an Oracle PL/SQL environment.
 ### Contact
